@@ -6,6 +6,8 @@ A lightweight PHP MVC framework inspired by Laravel, **PAM** simplifies web deve
 
 PAM was designed to implement clean MVC principles while providing essential tools for modern PHP development. A **Todo List App** built with PAM demonstrates its capabilities.
 
+- Demo : [YouTube](https://youtu.be/sj7AaQjmhCY?si=4nTvnt8kY7Mc5WtL)
+
 ## **Features**
 
 - **Database**: Eloquent ORM for database management.
