@@ -5,7 +5,10 @@
 use App\Controllers\AuthController;
 use App\Controllers\TodoController;
 
-router()->get('/', function(){
+
+require_once __DIR__ . '/migration.php';
+
+router()->get('/', function () {
     return redirect('/todos');
 });
 
